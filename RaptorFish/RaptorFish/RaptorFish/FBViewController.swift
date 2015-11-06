@@ -23,6 +23,25 @@ class FBViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func didPressOk(sender: AnyObject) {
+        
+        Utilities.delay(1.0) {
+            self.performSegueWithIdentifier("home", sender: nil)
+        }
+        
+    }
+   
+    
+    
+    
+//    override func viewWillAppear(animated: Bool) {
+//        super.viewWillAppear(animated)
+//        
+//        UIView.animateWithDuration(0.5, delay: 2.2, options: UIViewAnimationOptions.CurveEaseInOut, animations: { () -> Void in
+//            self.performSegueWithIdentifier("home", sender: nil)
+//            }, completion: nil)
+//    }
+//
 
     /*
     // MARK: - Navigation

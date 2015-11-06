@@ -12,6 +12,7 @@
 		AE41F5851BEA10250042B684 /* BaseTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE41F5841BEA10250042B684 /* BaseTransition.swift */; };
 		AE41F5871BEA10890042B684 /* LightBoxTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE41F5861BEA10890042B684 /* LightBoxTransition.swift */; };
 		AE41F5891BEA14A00042B684 /* FadeTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE41F5881BEA14A00042B684 /* FadeTransition.swift */; };
+		AEA2E8561BEC430900780127 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA2E8551BEC430900780127 /* Utilities.swift */; };
 		AEAA6C151BEB1CFF00A9D5A1 /* CustomNavigationAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEAA6C141BEB1CFF00A9D5A1 /* CustomNavigationAnimationController.swift */; };
 		B031B8AB1BDF40E000050D9C /* TemplatePreviewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B031B8AA1BDF40E000050D9C /* TemplatePreviewTableViewCell.swift */; };
 		B04BE6721BDBD35800DB292B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04BE6711BDBD35800DB292B /* ProfileViewController.swift */; };
@@ -62,6 +63,7 @@
 		AE41F5841BEA10250042B684 /* BaseTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseTransition.swift; sourceTree = "<group>"; };
 		AE41F5861BEA10890042B684 /* LightBoxTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightBoxTransition.swift; sourceTree = "<group>"; };
 		AE41F5881BEA14A00042B684 /* FadeTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FadeTransition.swift; sourceTree = "<group>"; };
+		AEA2E8551BEC430900780127 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		AEAA6C141BEB1CFF00A9D5A1 /* CustomNavigationAnimationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomNavigationAnimationController.swift; sourceTree = "<group>"; };
 		B031B8AA1BDF40E000050D9C /* TemplatePreviewTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TemplatePreviewTableViewCell.swift; sourceTree = "<group>"; };
 		B04BE6711BDBD35800DB292B /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -160,6 +162,7 @@
 				B06AA61C1BD9D73B00886328 /* ViewController.swift */,
 				B06AA6481BD9D8AC00886328 /* HomeViewController.swift */,
 				B06AA61E1BD9D73B00886328 /* Main.storyboard */,
+				AEA2E8551BEC430900780127 /* Utilities.swift */,
 				AEAA6C141BEB1CFF00A9D5A1 /* CustomNavigationAnimationController.swift */,
 				AE41F5861BEA10890042B684 /* LightBoxTransition.swift */,
 				AE41F5821BEA0ED00042B684 /* FBViewController.swift */,
@@ -400,6 +403,7 @@
 				B06AA61B1BD9D73B00886328 /* AppDelegate.swift in Sources */,
 				B06AA64F1BD9E12100886328 /* TemplateViewController.swift in Sources */,
 				B0A16DC61BDD926800D6D567 /* TemplatePreviewViewController.swift in Sources */,
+				AEA2E8561BEC430900780127 /* Utilities.swift in Sources */,
 				AE41F5891BEA14A00042B684 /* FadeTransition.swift in Sources */,
 				AE41F5871BEA10890042B684 /* LightBoxTransition.swift in Sources */,
 				B0A16DC81BDD92A200D6D567 /* CreateTaskListSelectionViewController.swift in Sources */,
